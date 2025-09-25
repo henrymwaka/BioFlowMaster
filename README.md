@@ -1,6 +1,6 @@
 # 🧬 BioFlowMaster
 
-**BioFlowMaster** is a modular, guided bioinformatics assistant that helps scientists perform complex molecular analyses — like CRISPR guide RNA design or RNA-Seq workflows — using a clean, step-by-step web interface powered by modern tools.
+**BioFlowMaster** is a modular, guided bioinformatics assistant that helps scientists perform complex molecular analyse, like CRISPR guide RNA design or RNA-Seq workflows — using a clean, step-by-step web interface powered by modern tools.
 
 ---
 
